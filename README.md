@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @johnApplegate
-- 👀 I’m interested in Software Testing
+- 👀 I’m interested in Front End Web Development and Software Testing
 - 🌱 I’m currently learning Git/Github
 - 💞️ I’m looking to collaborate on testing projects
 - 📫 How to reach me applegation@gmail.com
